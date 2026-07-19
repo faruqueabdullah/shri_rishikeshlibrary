@@ -43,7 +43,7 @@ function Notices() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center py-14 space-y-4">
           <h1 className="text-3xl sm:text-4xl font-bold">Latest Notices</h1>
-          <p className="text-xl font-semibold text-slate-500">Stay updated with our latest announcements and events</p>
+          <p className="text-lg font-semibold text-slate-500">Stay updated with our latest announcements and events</p>
         </div>
         <div className="grid grid-cols-1 gap-6">
           <article className="bg-linear-to-br from-blue-600 to-blue-800 text-white rounded-2xl p-8 shadow-lg">

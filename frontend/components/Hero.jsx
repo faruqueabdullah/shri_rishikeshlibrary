@@ -17,7 +17,7 @@ function Hero() {
         <div className="border relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 md:py-28 w-full">
           <div className="max-w-2xl">
             <h1 className="text-4xl sm:text-5xl font-bold text-white leading-tight">
-              Discover Knowledge in a{" "}
+              Chase your dream in a{" "}
               <span className="block">Modern Learning Space</span>
             </h1>
             <p className="mt-6 text-base sm:text-lg text-slate-200 leading-relaxed max-w-xl">

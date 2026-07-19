@@ -35,7 +35,7 @@ function Contact() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center py-10 space-y-4">
           <h1 className="text-3xl sm:text-4xl font-bold">Get in Touch</h1>
-          <p className="text-xl font-semibold text-slate-500">
+          <p className="text-lg font-semibold text-slate-500">
            We're here to help. Reach out to us for any queries or assistance
           </p>
         </div>

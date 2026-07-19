@@ -1,10 +1,10 @@
 import { FiAward, FiBook, FiHome, FiUsers } from "react-icons/fi";
 
 const STATS = [
-  { icon: FiBook, value: "50,000+", label: "Books" },
-  { icon: FiUsers, value: "10,000+", label: "Members" },
-  { icon: FiHome, value: "15+", label: "Reading Rooms" },
-  { icon: FiAward, value: "25+", label: "Years of Service" },
+  { icon: FiBook, value: "500+", label: "Books" },
+  { icon: FiUsers, value: "2000+", label: "Members" },
+  { icon: FiHome, value: "150+", label: "Seats" },
+  { icon: FiAward, value: "5+", label: "Years of Service" },
 ];
 
 function Stats() {
